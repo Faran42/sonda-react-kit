@@ -1,2 +1,4 @@
-export * from "./Card";
-export * from "./Button";
+import { Button } from "./Button";
+import { Card } from "./Card";
+
+export { Button, Card };

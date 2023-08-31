@@ -1,18 +1,18 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "target": "es5",
+    "target": "es2016",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "skipLibCheck": true, 
+    "skipLibCheck": true,
     "jsx": "react",
-    "module": "es6",    
+    "module": "ESNext",
     "declaration": true,
     "sourceMap": true,
     "outDir": "dist",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "emitDeclarationOnly": true    
+    "emitDeclarationOnly": true
   }
  }
